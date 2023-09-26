@@ -19,7 +19,7 @@ Very soon I am a good software developer. 🤓
 
 I currently live in Berlin, Germany. 🇩🇪
 
-To date, I have written about quality, systems and processes in the automotive industry for 9 years and have digitally transformed organizations from scratch. 
+To date, I have been working about quality, systems and processes in the automotive industry for 9 years and have digitally transformed organizations from scratch. 
 I have now turned my focus on continuous development and improvement to myself with the title of developer. 🌎
 
 I am eager to continually develop this field. 🚀 🤖
