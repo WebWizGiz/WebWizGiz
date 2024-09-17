@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Very soon I am a good software developer. 🤓
 
 I currently live in Berlin, Germany. 🇩🇪
 
